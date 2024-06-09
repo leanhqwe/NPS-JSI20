@@ -1,0 +1,1 @@
+để khởi tạo date có 4 cách:
